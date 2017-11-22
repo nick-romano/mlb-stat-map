@@ -1,9 +1,9 @@
 <?php
 
 $hostname="localhost";
-$username="root";
-$passwd="root";
-$dbname="database";
+$username="this is hidden";
+$passwd="from you";
+$dbname="dude";
 
 $con = mysqli_connect($hostname,$username,$passwd,$dbname);
 
