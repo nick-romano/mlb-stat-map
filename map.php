@@ -1,5 +1,5 @@
 <!--google maps API -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVQB2GaX91OEHVEf52kEFRUGp--Lf24HQ"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key="></script>
 
 <script src="js/customScript.js"></script>
 
